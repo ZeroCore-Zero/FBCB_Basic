@@ -1,0 +1,12 @@
+{
+    "id": "fbcb_basic",
+    "version": "0.1.0-alpha",
+    "name": "FBCB Basic",
+    "description": "服务器FBCB基础插件",
+    "author": "ZeroCore",
+    "link": "https://github.com/ZeroCore_Zero/FBCB_Basic",
+    "dependencies": {
+       "mcdreforged": ">=2.0.0",
+       "daycount_nbt": ">=2.2.1"
+    }
+}
